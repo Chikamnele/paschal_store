@@ -1,0 +1,181 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 1px solid black;
+    height: 650px;
+    width: 100%;
+    display: flex;
+    background-color:whitesmoke;
+}
+
+img{
+   border-radius: 100%;
+   height: 20px;
+   width: 30px;
+   justify-content: center;
+   align-items: center;
+   padding-left: 5px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+}
+#whats{
+    padding-left:5px;
+}
+.chatbar{
+    margin-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+.box1{
+    border: 1px solid rgb(228, 225, 225);
+    border-top-left-radius: 15px;
+    height: 600px;
+    width: 500px;
+    margin-top: 30px;
+    padding-right: 15px;
+    background-color: #ffffff;
+    color: black;
+    overflow-y: scroll;
+    cursor: pointer;
+}
+#searchimage{
+    margin-top: 5px;
+    height: 15px;
+    width: 20px;
+    margin-top: 8px;
+}
+.searchbar{
+    border: 1px solid gray;
+    border-bottom: 2px solid rgb(58, 128, 58);
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-radius: 5px;
+    height: 30px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#search{
+    height: 15px;
+    border: 1px solid white;
+    border: 0px;
+    margin-bottom: 150px;
+    width: 280px;
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
+#Ak47{
+    height: 30px;
+    margin-top: 13px;
+    width: 40px;
+}
+.ak{
+    display: flex;
+}
+#house1{
+    height: 30px;
+    margin-top: 13px;
+    width: 35px;
+}
+#button{
+   margin-top: 10px;
+    height: 40px;
+    width: 400px;
+    border: transparent;
+    color: black;
+}
+.house1{
+    display: flex;
+}
+h4{
+    display: flex;
+}
+.box2{
+    border: 1px solid rgb(228, 225, 225);
+    height: 600px;
+    width: 100%;
+    margin-top: 30px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#message{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+#png{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#godwin{
+    display: flex;
+}
+#use{
+    padding-right: 25px;
+}
+.sidebar{
+    border: 1px solid black;
+    flex-direction: column;
+    height: 630px;
+    width: 50px;
+    /* margin-top: 30px; */
+    display: flex;
+    margin-top: 5px;   
+}
+#johnson{
+    margin-top: 440px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+#chatme{
+    margin-left: 15px;
+}
+.man{ 
+ margin-top: 600PX;   
+ height: 500PX;
+}
+#profile{
+    margin-top: 350px;
+}
+#archived{
+    margin-top: 200px;
+}
+#message{
+
+}
+#setting{
+    margin-top: 320px;
+}
+#phone{
+
+}
+#status{
+
+}
+#Ai{
+
+}
+#star{
+    
+}
